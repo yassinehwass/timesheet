@@ -23,7 +23,7 @@ public class Mission implements Serializable {
 	private String name;
 	
 	private String description;
-	//Entité département a créer
+	//Entité département a créerrrrr
 	@ManyToOne
 	private Departement departement;
 	
